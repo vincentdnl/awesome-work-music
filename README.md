@@ -1,6 +1,6 @@
 # Awesome Work Music
 
-* Music for work and study!
+This is a curated list of music albums that can safely be listened to when you need to focus on work or study. It features albums of different energy (from really calm and slow to fast and rhythmic) with few to no lyrics (at least lyrics that will not distract you while working). Feel free to create a pull request if you feel that an album belongs here! 
 
 ## Post-Rock
 
@@ -24,3 +24,7 @@
 ## Psychadelic Rock
 
 * Earthless - From the Ages
+
+## Jazz
+
+* GoGo Penguin - Ocean In A Drop
