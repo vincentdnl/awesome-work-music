@@ -20,6 +20,7 @@ This is a curated list of music albums that can safely be listened to when you n
 ## Electronic
 
 * Boards of Canada - Geogaddi
+* Nujabes - Modal Sould
 
 ## Psychadelic Rock
 
